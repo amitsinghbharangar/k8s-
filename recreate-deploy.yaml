@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: web-container
-        image: nginx:1.14.2  # Purana version
+        image: nginx:latest  # Purana version
